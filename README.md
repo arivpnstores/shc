@@ -145,8 +145,5 @@ ALLOWED_KEYS=("Ari123Ok")
 ---
 
 ## 🧑‍💻 Author
-ORDER : t.me/ARI_VPN_STORE
-
-Script dikembangkan & disesuaikan untuk kebutuhan **proteksi shell script VPS / server**.
-🔥 Gunakan dengan bijak.
+ORDER PASSWORD : https;//t.me/ARI_VPN_STORE
 
