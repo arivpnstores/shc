@@ -145,5 +145,5 @@ ALLOWED_KEYS=("Ari123Ok")
 ---
 
 ## 🧑‍💻 Author
-ORDER PASSWORD : https;//t.me/ARI_VPN_STORE
+https://t.me/ARI_VPN_STORE
 
