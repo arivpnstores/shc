@@ -115,7 +115,7 @@ chmod 600 /etc/.encrypt_license
 Contoh konfigurasi di script:
 
 ```bash
-ALLOWED_KEYS=("Ari123Ok")
+ALLOWED_KEYS=("....")
 ```
 
 ---
@@ -145,5 +145,5 @@ ALLOWED_KEYS=("Ari123Ok")
 ---
 
 ## 🧑‍💻 Author
-https://t.me/ARI_VPN_STORE
+ORDER Lisensi : https://t.me/ARI_VPN_STORE
 
